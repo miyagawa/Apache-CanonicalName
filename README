@@ -14,7 +14,7 @@ SYNOPSIS
 
 DESCRIPTION
     Apache::CanonicalName allows you to use "ap_construct_url" from inside
-    mod_perl. It constructs url corrently using "UseCanonicalName"
+    mod_perl. It constructs url correctly using "UseCanonicalName"
     configurations.
 
     See http://httpd.apache.org/docs/mod/core.html#usecanonicalname for
@@ -27,5 +27,5 @@ AUTHOR
     under the same terms as Perl itself.
 
 SEE ALSO
-    the Apache::URL manpage
+    the Apache::URI manpage
 

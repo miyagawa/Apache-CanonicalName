@@ -37,7 +37,7 @@ Apache::CanonicalName - ap_construct_url port to mod_perl
 =head1 DESCRIPTION
 
 Apache::CanonicalName allows you to use C<ap_construct_url> from
-inside mod_perl. It constructs url corrently using C<UseCanonicalName>
+inside mod_perl. It constructs url correctly using C<UseCanonicalName>
 configurations.
 
 See http://httpd.apache.org/docs/mod/core.html#usecanonicalname for details.
@@ -51,6 +51,6 @@ it under the same terms as Perl itself.
 
 =head1 SEE ALSO
 
-L<Apache::URL>
+L<Apache::URI>
 
 =cut
